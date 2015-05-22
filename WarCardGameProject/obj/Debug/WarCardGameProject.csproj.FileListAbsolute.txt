@@ -1,0 +1,9 @@
+C:\Users\Andrei\Desktop\WarCardGameProject\WarCardGameProject\bin\Debug\WarCardGameProject.exe.config
+C:\Users\Andrei\Desktop\WarCardGameProject\WarCardGameProject\bin\Debug\WarCardGameProject.exe
+C:\Users\Andrei\Desktop\WarCardGameProject\WarCardGameProject\bin\Debug\WarCardGameProject.pdb
+C:\Users\Andrei\Desktop\WarCardGameProject\WarCardGameProject\obj\Debug\WarCardGameProject.csprojResolveAssemblyReference.cache
+C:\Users\Andrei\Desktop\WarCardGameProject\WarCardGameProject\obj\Debug\WarCardGameProject.Form1.resources
+C:\Users\Andrei\Desktop\WarCardGameProject\WarCardGameProject\obj\Debug\WarCardGameProject.Properties.Resources.resources
+C:\Users\Andrei\Desktop\WarCardGameProject\WarCardGameProject\obj\Debug\WarCardGameProject.csproj.GenerateResource.Cache
+C:\Users\Andrei\Desktop\WarCardGameProject\WarCardGameProject\obj\Debug\WarCardGameProject.exe
+C:\Users\Andrei\Desktop\WarCardGameProject\WarCardGameProject\obj\Debug\WarCardGameProject.pdb
